@@ -1,7 +1,7 @@
-### Hi there 👋
+# fridex
 
-- 🔭 I’m currently working on project Thoth
-- 🌱 I’m currently learning how to let computers learn
-- 💬 Ask me about anything
-- 📫 How to reach me: https://twitter.com/fridex
-- ⚡ Fun fact: I used to hate tomatoes, but now I like them.
+* 🐦 twitter: [@fridex](https://twitter.com/fridex)
+* 📜 medium.com: [@fridex](https://medium.com/@fridex)
+* 🧐 about me: [fridex.github.io](https://fridex.github.io/)
+* 🧠 linkedin: [click](https://www.linkedin.com/in/fridol%C3%ADn-pokorn%C3%BD-b382b240/)
+* 🏭 Red Hat
