@@ -1,6 +1,6 @@
 # fridex
 
-🐬🐬🐬 Neverending believer in flying dolphins. Some of them can even levitate! 🐬🐬🐬
+Life is about priorities.
 
 * 🐦 twitter: [@fridex](https://twitter.com/fridex)
 * ✍ dev.to: [@fridex](https://dev.to/@fridex)
